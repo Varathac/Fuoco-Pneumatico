@@ -9,19 +9,23 @@ DISCLAIMER: I am not responsible for any damages to your vehicle or motorcycle.
 
 Parts used:
 ===============================================================
+
 LCD: Hosyond 3.5 inch 320x480 IPS Capacitive Touch Screen LCD
 (Any screen can be used but I will be using this one)
 ST7796S
 ILI19488 driver
 
 ===============================================================
+
 Arduino Uno REV3 [A000066]
 The printer cable was not supplied (need for coding)
 
 ===============================================================
+
 EC Buying GY-906 MLX90614 Non-Contact IR infrared Temperature sensor Module x2
 
 ===============================================================
+
 THESE SENSOR PINS DID NOT COME SOLDERED. YOU WOULD HAVE TO SOLDER THE PINS TO THE BOARD IF YOU PLAN TO USE THE PIN AS A CONNECTION.
 
 I used a HAKKO soldering station to solder mines in place then tested with a multimeter with a wire connected to the pin to make sure they weren’t shorting each other out.
