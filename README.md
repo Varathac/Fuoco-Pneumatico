@@ -49,3 +49,8 @@ Libraries used:
 <Wire.h>
 <Adafruit_MLX90614.h>
 <SparkFunMLX90614.h>
+
+===============================================================
+
+If anyone have any suggestions or more familiar with C++ that would help
+greatly thanks!
