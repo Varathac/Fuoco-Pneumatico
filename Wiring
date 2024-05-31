@@ -1,0 +1,16 @@
+Arduino  |         LCD          |  IR Sensor (Parallel)
+--------------------------------------------
+5v       |  VCC                 |  
+GND      |  GND                 |  GND (1,2)
+A0       |  LCD_RS              |
+A1       |  LCD_RST             |
+A2       |  LCD_RS              |
+11       |  SDI(MOSI)           |
+12       |  SDO(MISO)           |
+13       |  SCK                 |
+2        |  LED                 |
+VIN      |                      |  VIN (1,2)
+SCL      |                      |  SCL (1,2)
+SDA      |                      |  SDA (1,2)
+A4       |                      |
+A5       |                      |
