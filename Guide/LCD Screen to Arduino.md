@@ -10,6 +10,8 @@ The link above guides you to Arduino's documentation on what each pin on the boa
 
 (LCD Screen Pin Layout)
 
+(We will be using the Custom Wire to connect them)
+
 Pin Connections From Arduino to LCD Screen (A: Arduino | L: LCDScreen)
 -
 - A: 5v -> L: VCC
@@ -23,8 +25,13 @@ Pin Connections From Arduino to LCD Screen (A: Arduino | L: LCDScreen)
 - A: 2 -> L: LED
 
 <hr>
+You can pin the touch screen capabilities for the LCD to the D pins on the Arduino and define it in the code but in our application
+we will not be using it.
+
+
 For my specific display which uses an ST7796U touch interface. The drivers it uses are Adafruit_ST7796S_kbv, Adafruit_GFX.h, and SPI.h.
 Other screens may require different drivers to make it work and different boards you use will require a different library.
+
 
 There are Libraries made already in the Arduino Sketch where you will be uploading and will be doing most of your programming.
 To find the Libraries go to the top right -> Manage Libraries -> (Then type the name of the Library you want to add)
