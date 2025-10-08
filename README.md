@@ -1,4 +1,4 @@
-Fuoco-Pneumatico
+Fuoco-Pneumatico (WORK IN PROGRESS)
 
 Fuoco-Pneumatico is a tire heat monitoring system that lets you know when your tires are warm and ready to push.
 After studying Javascript and Python, I decided to create a tire heat monitoring system as my first project. I wanted to make something that would be useful to me when I take a ride. Whether it be on a motorcycle or a track car, having warm tires is important for grip. This project all started when I experienced an unfortunate high side when taking my motorcycle out one day. I had thought that my tires were warmed up and ready for intense speeds. Unfortunately, I was mistaken. The rear tire completely lost grip and my bike began to fishtail, which left me in the air falling to scratches, rashes, and bruises. The worst part was the damage to my bike. After this accident, I decided it was time to develop a device that told me when my tires were ready rather than guessing and suffering unwelcome consequences. 
