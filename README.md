@@ -29,9 +29,25 @@ WIRES:
 - DC Connector pigtail MALE and FEMALE. (8 pin)
   
 - 22 AWG wire shielded
+
+- 22 AWG solid core wire for power and ground
   
 - Soldered connections between Arduino Mini
 
+<hr>
+Electronics:
+<hr>
+
+- Voltage Regulator MP1584EN mini- buck
+
+- 470uf, 25V electrolytic capacitor/ 0.1uf (100nf) ceramic, x7R, 50V
+
+- 100uf, 25V electrolytic capacitor/ 1.0uf ceramic, x7R, 16V
+
+- TVS diode (SMBJ58CA)
+
+- Inline 3A fuse
+  
 <hr>
 Libraries used:
 <hr>
