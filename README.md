@@ -15,8 +15,7 @@ Parts used:
   ST7796S
   ILI19488 driver
 
-- Arduino Uno REV3 [A000066]
-- The printer cable was not supplied (need for coding)
+- Arduino Mini w/ printer cable to code 
 
 - EC Buying GY-906 MLX90614 Non-Contact IR infrared Temperature sensor Module x2
 
@@ -27,13 +26,11 @@ Parts used:
 WIRES:
 <hr>
 
-- DC Connector pigtail MALE
+- DC Connector pigtail MALE and FEMALE. (8 pin)
   
-- 22 AWG wire
+- 22 AWG wire shielded
   
-- Dupont male/female connector pins
-  
-- Dupont pin housing
+- Soldered connections between Arduino Mini
 
 <hr>
 Libraries used:
