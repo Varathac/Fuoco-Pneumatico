@@ -1,3 +1,6 @@
+UPDATE:
+I will be moving forward with a LCD unit that plugs directly to the board to eliminate extra wire that can cause failure points, reduce materials, and reduce size.
+
 Arduino Pinout Document:
 https://docs.arduino.cc/resources/pinouts/A000066-full-pinout.pdf
 The link above guides you to Arduino's documentation on what each pin on the board does.
