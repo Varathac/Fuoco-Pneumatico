@@ -10,8 +10,19 @@ Arduino -> IR sensor wire
 - 22-awg-stranded shielded wire
 - Rayhem Heat shrink
 - Connectors and pins
-![image](https://github.com/Varathac/Fuoco-Pneumatico/blob/6a687297a01b62cccd52c66fd27239e8f1465f41/Images/wiring.jpg)
+![Wiring Diagram](https://raw.githubusercontent.com/Varathac/Fuoco-Pneumatico/main/Images/wiring.jpg)
+
 
 Thankfully there won't be any soldering on this part of the process. We will be following most of F1 cars standards which are crimping rather than soldering.
 
-1. 
+1. We would have to find the correct length of the wire from the Arduino/Display to the front and rear wheels.
+
+2. Strip the wire read for crimping terminals to the connector head.
+
+3. On the connectors there are labeling such as A,B,C,D which we be using to match each pins from each sides.
+
+4. Once the terminals are crimped from each wire, we will go ahead and insert them to the connector head accordingly with female terminal to female connectors and male terminal to male connectors.
+
+5. Make sure that the colored wires are in the same location of the connector
+
+6. Lastly we will go ahead and wrap heatshrink from Raychem around to make it more resistant to the weather and fire retardant.
