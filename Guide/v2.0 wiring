@@ -1,0 +1,17 @@
+Tools
+-
+- Wire strippers
+- Terminal crimpers
+- Heatgun
+
+
+Arduino -> IR sensor wire
+-
+- 22-awg-stranded shielded wire
+- Rayhem Heat shrink
+- Connectors and pins
+![image](https://github.com/Varathac/Fuoco-Pneumatico/blob/6a687297a01b62cccd52c66fd27239e8f1465f41/Images/wiring.jpg)
+
+Thankfully there won't be any soldering on this part of the process. We will be following most of F1 cars standards which are crimping rather than soldering.
+
+1. 
