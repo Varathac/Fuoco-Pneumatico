@@ -8,6 +8,16 @@ Use the following library for the ST7796 SPI TFT display module:
 -  Since the display communicates over SPI, it does not interfere with the I²C bus.
 <hr>
 
+Displaying the information:
+<hr>
+I use another library to prevent the whole screen from refreshing when new information is recieved from the sensor.
+
+- Repository: https://github.com/KrisKasprzak/FlickerFreePrint
+
+- Just import the .ZIP files to the arduino and follow the written guide
+  
+<hr>
+
 Dual MLX90614 Infrared Sensors (I²C):
 <hr>
 Both MLX90614 sensors share the same SDA and SCL lines. To prevent address conflicts:
@@ -26,6 +36,7 @@ Once addressed uniquely, both sensors can operate on the same I²C pins without 
 <hr>
 
 Important Display Selection Note:
+<hr>
 
 If choosing a display that uses I²C rather than SPI:
 
