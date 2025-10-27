@@ -20,7 +20,7 @@ Parts used:
 - EC Buying GY-906 MLX90614 Non-Contact IR infrared Temperature sensor Module x2
 
  THESE SENSOR PINS DID NOT COME SOLDERED. YOU WOULD HAVE TO SOLDER THE PINS TO THE BOARD IF YOU PLAN TO USE THE PIN AS A CONNECTION.
- I used a HAKKO soldering station to solder mines in place then tested with a multimeter with a wire connected to the pin to make sure they weren’t shorting each other out.
+ I used a HAKKO soldering station to solder mines in place then verified continuity with a multimeter.
 
 <hr>
 WIRES:
@@ -47,6 +47,8 @@ Electronics:
 - TVS diode (SMBJ58CA)
 
 - Inline 3A fuse
+  
+This ensures the arduino recieves clean and consistent power.
   
 <hr>
 Libraries used:
