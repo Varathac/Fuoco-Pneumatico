@@ -15,7 +15,7 @@ Parts used:
   ST7796S
   ILI19488 driver
 
-- Arduino Mini w/ printer cable to code 
+- Arduino Mini w/ Mini B USB
 
 - EC Buying GY-906 MLX90614 Non-Contact IR infrared Temperature sensor Module x2
 
