@@ -38,6 +38,8 @@ Other screens may require different drivers to make it work and different boards
 <hr>
 
 Sensors to Arduino NANO
+
 IR Sensor          |        Nano
+
 - SCL(WHITE/BLUE)            A5
 - SDA (WHITE)                A4
