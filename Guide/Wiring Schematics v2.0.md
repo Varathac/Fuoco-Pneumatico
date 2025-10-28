@@ -17,15 +17,15 @@ The link above guides you to Arduino's documentation on what each pin on the boa
 Pin Connections From Arduino to LCD Screen (A: Arduino | L: LCDScreen)
 -
 TFT Label	Arduino Nano Pin	Wire Color	Note
-- VCC	- 5V	- Red	- Display power
-- GND	- GND	- Black	- Common ground
-- LCD_CS	- D10	- Green	- Chip Select
-- LCD_RS / DC	- D9	- Orange	- Data/Command
-- LCD_RST	- D8 - Yellow	- Hardware reset
-- SDI (MOSI)	- D11	- Blue	- Arduino → Display data
-- SCK	SCK - (D13)	- Purple	- SPI clock
-- SDO (MISO)	- D12	- White	- Display → Arduino read
-- LED (Backlight)	- D2	- Grey	- Controlled backlight enable
+- VCC	- 5V	- Display power
+- GND	- GND	- Common ground
+- LCD_CS	- D10	- Chip Select
+- LCD_RS / DC	- D9	- Data/Command
+- LCD_RST	- D8 - Hardware reset
+- SDI (MOSI)	- D11	- Arduino → Display data
+- SCK	SCK - D13	- SPI clock
+- SDO (MISO)	- D12	- Display → Arduino read
+- LED (Backlight)	- D2	- Controlled backlight enable
 
 <hr>
 You can pin the touch screen capabilities for the LCD to the D pins on the Arduino and define it in the code but in our application
