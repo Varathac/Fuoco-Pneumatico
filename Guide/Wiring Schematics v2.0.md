@@ -35,6 +35,9 @@ we will not be using it.
 For my specific display which uses an ST7796U touch interface. The drivers it uses are Adafruit_ST7796S_kbv, Adafruit_GFX.h, and SPI.h.
 Other screens may require different drivers to make it work and different boards you use will require a different library.
 
+<hr>
 
-There are Libraries made already in the Arduino Sketch where you will be uploading and will be doing most of your programming.
-To find the Libraries go to the top right -> Manage Libraries -> (Then type the name of the Library you want to add)
+Sensors to Arduino NANO
+IR Sensor          |        Nano
+- SCL(WHITE/BLUE)            A5
+- SDA (WHITE)                A4
