@@ -38,17 +38,11 @@ WIRES:
 Electronics:
 <hr>
 
-- Voltage Regulator MP1584EN mini- buck
-
-- 470uf, 25V electrolytic capacitor/ 0.1uf (100nf) ceramic, x7R, 50V
-
-- 100uf, 25V electrolytic capacitor/ 1.0uf ceramic, x7R, 16V
-
-- TVS diode (SMBJ58CA)
+-  Dc-Dc 12v to 7V step down mini- buck
 
 - Inline 3A fuse
   
-This ensures the arduino recieves clean and consistent power.
+This ensures the arduino recieves required power.
   
 <hr>
 Libraries used:
