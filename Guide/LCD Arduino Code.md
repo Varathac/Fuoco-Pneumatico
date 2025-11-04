@@ -33,6 +33,11 @@ Both MLX90614 sensors share the same SDA and SCL lines. To prevent address confl
         - Upload and follow the code instructions to set a new address
 
 Once addressed uniquely, both sensors can operate on the same I²C pins without issue.
+
+
+Future Fix:
+
+Best way to avoid this situation without having to change the hardware address, buying a multiplexer for I2C.
 <hr>
 
 Important Display Selection Note:
