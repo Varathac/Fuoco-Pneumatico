@@ -20,7 +20,7 @@ I use another library to prevent the whole screen from refreshing when new infor
 
 Dual MLX90614 Infrared Sensors (I²C):
 <hr>
-Both MLX90614 sensors share the same SDA and SCL lines. To prevent address conflicts:
+Both MLX90614 sensors share the same Serial Data Line (SDA) and Serial Clock Line (SCL). To prevent address conflicts:
 
 - The I²C address of at least one sensor must be changed
 
